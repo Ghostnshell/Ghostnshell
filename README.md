@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daneen Beverly
 ======================================================================================================================================
 
-Cybersecurity Student
+Profound new love for Cybersecurity who likes to threat hunt on malwares and vampires... well... can't a girl daydream with the vampires.
 ---------------------
 
-I am a cybersecurity student who loves to optimize my potential in IT. Currently studying for Sec+ and in my downtime learning languages such as SQL and Python and eventually Linux.
+In my downtime from threat hunting and reading up on cyberattacks, I'm learning languages such as SQL, Python, Linux and a little of bash.  
 
 * 🌍  I'm based in Charlotte, NC
 * ✉️  You can contact me at [daneen.beverly98@gmail.com](mailto:daneen.beverly98@gmail.com)
-* 🧠  I'm learning Cybersecurity (SEC+)
+* 🧠  Passed CompTIA Sec+
 * ⚡  I'm secretly that Girl with the Dragon Tattoo
 
 <a href="https://www.github.com/Ghostnshell" target="_blank" rel="noreferrer"><img
